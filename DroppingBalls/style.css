@@ -1,0 +1,20 @@
+body { margin: 0; overflow: hidden; }
+.titel{
+    text-align: center;
+    
+}
+.titel h2{
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+.data{
+    align-items: center;
+    position:relative;
+    justify-content: center;
+    margin-left: 5%;
+    width:30%;
+
+}
+.data input{
+    align-items:flex-end;
+}
